@@ -92,4 +92,4 @@ it documents, lives in `/docs`:
 
 ---
 
-*Built by [Your Name] — [LinkedIn] · [GitHub]*
+*Built by [SUJAL CHETAN PARMAR] — [sujal] · [sujal]*
