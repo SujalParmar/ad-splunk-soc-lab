@@ -1,4 +1,4 @@
-# Phase 3 — Active Directory & Domain
+# Phase 3 - Active Directory & Domain
 
 **Goal:** install Active Directory on the server, promote it to a Domain
 Controller, and join the target machine to the new domain.
